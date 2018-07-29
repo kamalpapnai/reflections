@@ -9,4 +9,9 @@ It offers us to add files which we want to commit rather than putting all files 
 3.How can you use the staging area to make sure you have one commit per logical change?
 Ans:By using the command git diff --staged we can look for the changes.
 
-4.hii there
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans:When we have to experiment with a new feature or our code.
+
+
+5.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans:Result of merging two branches is that we get a master branch which cntains code of the branch also.
